@@ -1,5 +1,5 @@
 ## M1KoTiK - настоящий пайс
-
+Не списывайте у меня пожалуйста
 <!--
 **M1KoTiK/M1KoTiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
